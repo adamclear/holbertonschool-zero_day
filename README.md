@@ -1,1 +1,1 @@
-This repository is for the 0x01-emacs project# holbertonschool-zero_day
+This repository is for the 0x0(x)- projects.
