@@ -1,0 +1,1 @@
+This project is about learning vi and its functions.
